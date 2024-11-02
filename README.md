@@ -1,3 +1,2 @@
 # WordleEXE.github.io
-learn to code :D
-thanks Kenny Yip Coding for tutorial <3
+learn to code :D and thanks The Youtube Channel : Kenny Yip Coding for tutorial <3
